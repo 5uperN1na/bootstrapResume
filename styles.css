@@ -1,2 +1,8 @@
+.badge {
+    border: 1px solid black;
+}
 
-
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
